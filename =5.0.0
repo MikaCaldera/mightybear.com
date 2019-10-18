@@ -1,4 +1,0 @@
-+ ajv@6.10.2
-added 5 packages from 3 contributors, updated 1 package and audited 20162 packages in 10.404s
-found 52 vulnerabilities (8 low, 33 moderate, 11 high)
-  run `npm audit fix` to fix them, or `npm audit` for details
